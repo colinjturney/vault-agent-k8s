@@ -1,4 +1,4 @@
-# Vault Trusted Broker Demo
+# Vault Agent on K8s Demo
 
 The code in this demo will build a local Consul cluster with a single Vault server. Additionally, instructions are provided to run a local Kubernetes install with Minikube.
 
