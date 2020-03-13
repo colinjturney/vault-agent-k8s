@@ -1,0 +1,4 @@
+.vagrant
+kube_sa_info
+pod-spec.yml
+vault-agent-config.hcl
